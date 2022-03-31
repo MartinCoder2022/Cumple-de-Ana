@@ -1,0 +1,21 @@
+body {
+    
+    background-image:url(./imgs/acanto.jpg);
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    
+    
+}
+
+h1{
+    color: aqua;
+    text-align: center  ;
+
+}
+h3{
+    color: red;
+    text-align: center;
+    
+}
